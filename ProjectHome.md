@@ -1,0 +1,1 @@
+The project aims at easing development of Casino Games, mainly Slot, by providing an Open Source Casino Game Engine. Its started for Android initially, but gradually making independent of the platform.
